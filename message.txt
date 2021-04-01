@@ -1,1 +1,2 @@
 Here is a message from me to git
+This message has been edited for tutorial purposes.
