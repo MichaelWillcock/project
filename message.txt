@@ -1,1 +1,2 @@
 Here is a message from me to git
+This is an updated message
