@@ -1,5 +1,9 @@
 Here is a message from me to git
+<<<<<<< HEAD
 This message has been edited for tutorial purposes.
 This is another updated message.
 Here is another updated message.
 A third updated message appears.
+=======
+This is an updated message
+>>>>>>> master
